@@ -1,7 +1,7 @@
 ---
 title: Morning Practice
 status: provisional
-date: 2026-11-24
+date: 2026-11-25
 ---
 # Point
 To rededicate oneself to the creed each morning, in a few minutes, and turn that into action the same day. For now it is made for one person, the founder.
@@ -25,23 +25,41 @@ To rededicate oneself to the creed each morning, in a few minutes, and turn that
 
 # The piece
 
-**Sit. Take three slow breaths.** Then say:
+Say each opening, then finish it with whatever is true today. The themes are there to draw from, not to cover. Plain words count.
 
+**If nothing comes after a breath, say the default and move on.** That is not failing.
+
+## Sit
+Take three slow breaths.
+
+- **"I recognize..."**: my beliefs are an approximation; where that has been showing
+- **"Lately I've been shaped by..."**: what has been pulling at me; where I've been losing; what I've looked away from
+- **"I rededicate myself to..."**: what I want to understand; what I need to plan for with care
+
+*Default:*
 > I recognize my beliefs are and will always be an approximation of the vast structure of reality, shaped by influences I can never fully see or escape. And so I allow my understanding to be challenged, and I rededicate myself to refining my approximation, to understanding those influences, and to using my understanding to plan my steps with care.
 
+## Stand
 
+- **"Knowing this, I yet choose..."**: what I'm taking on today; the value I'm standing on
+- **"I will shape..."**: an influence or habit to change, so that my values come naturally
+- **"When the moment comes, I will..."**: act with conviction; look back only to understand and improve
 
-**Stand.** Then say:
-
+*Default:*
 > Knowing this, I yet choose to act. I will shape the influences that shape me, so that my values come naturally. When the moment comes, I will act on my beliefs and my gut with conviction, and look back only to understand and improve.
 
+**Always, word for word:**
 > I have faith that striving for truth and agency will lead me and my fellow humans to live lives worth living, and to add value to each other and the world beyond us. Today I choose to strive again.
 
-**Write** one value, and an if-then plan for living it: "if X happens, I will Y."
+## Write and begin
+
+**Write** one value, and an if-then plan for living it: "if X happens, I will Y." If a phrase came to you that you want to keep, write that too.
 
 **Enter the "if"** right away, if possible.
 
 # Unresolved
+- Will having the default in view tempt us to read it rather than find words?
+- Should the default change as better phrases come up in practice?
 - Who is this said to? Oneself, with humanity as witness, was suggested but not settled.
 - If a habit works by not being examined, how do we notice when it has gone wrong?
 - When should the practice itself be questioned? A set time, such as weekly, was suggested.
@@ -50,6 +68,10 @@ To rededicate oneself to the creed each morning, in a few minutes, and turn that
 - Do honest seekers converge on values? Different journeys, with no force guiding them to the same place, may still share basic values. This belongs to the creed, but it came up here.
 
 # Justification
+**Openings with a default (2026-11-25, after the first day).** Ideally the words come on the spot, from what the person values, wants, and has been losing at. But earlier unprompted attempts got stuck: the ideas were there and the words were not. So the openings are given, the endings are free, and the default catches anyone who is stuck. Each default sits directly under its part, so it is at hand when needed. The faith line stays fixed because it is the dedication itself.
+
+**The seated line was rewritten (2026-11-25).** "Will always be" admits that approximation never ends, and "allow my understanding to be challenged" makes humility something one does. "And so" replaced a draft "Despite this", because refinement happens through being challenged, not despite it.
+
 **Sacred and questionable.** Doing something to move toward the creed fulfils the creed, so the act is sacred. Admitting it may be the wrong practice also follows the creed, so questioning it is sacred too. We do it despite our questioning, because that is the only way to push through.
 
 **Sitting, then standing.** Sitting is for knowing, doubt, and care. Standing is the act of taking charge. Care belongs to planning, and conviction to acting.
