@@ -49,7 +49,7 @@ Take three slow breaths.
 > Knowing this, I yet choose to act. I will shape the influences that shape me, so that my values come naturally. When the moment comes, I will act on my beliefs and my gut with conviction, and look back only to understand and improve.
 
 **Always, word for word:**
-> I have faith that striving for truth and agency will lead me and my fellow humans to live lives worth living, and to add value to each other and the world beyond us. Today I choose to strive again.
+> I have faith that striving for truth and agency will lead me and my fellow humans to live lives worth living, and to add value to each other and the world beyond us. Today, I strive again.
 
 ## Write and begin
 
@@ -91,5 +91,7 @@ Take three slow breaths.
 **"Me and my fellow humans."** This gives warmth and recognizes that everyone is like us. "Brothers and sisters" could sound like members only. "Walks it with me" implied everyone shares one journey, so the walking metaphor was dropped.
 
 **"Add value to each other and the world beyond us."** The creed promises this for everyone who lives this way, so the practice says it too.
+
+**The ending (2026-11-25).** "Today, I strive again" serves as the practice's amen: it marks the end and commits us to acting. Its pattern can fit other prayers: "(time period), (I or we) strive again." It replaced "Today I choose to strive again", which was less punchy. "Today, I strive" lacked rhythm and felt empty. Completely different endings were tried and disliked, though "And so I choose" was ok.
 
 **The if-then plan.** It ties a value to a situation and a response, so that acting on it can become habit. The evidence is modest and was not gathered on practices like this one: [values affirmation shows small effects](https://pubmed.ncbi.nlm.nih.gov/25133846/), and [one trial](https://core.ac.uk/download/42612494.pdf) found that if-then plans helped where a values essay did not.
