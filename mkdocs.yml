@@ -1,0 +1,28 @@
+# Site settings, read by Zensical (the successor to Material for MkDocs).
+# The build copies every tracked .md file into _build/docs first,
+# because pages cannot be read from the folder this file lives in.
+site_name: Practicing Truth and Agency
+repo_url: https://github.com/DumbassGenius/Practicing-Truth-and-Agency
+docs_dir: _build/docs
+site_dir: _build/site
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
