@@ -49,7 +49,7 @@ Take three slow breaths.
 > Knowing this, I yet choose to act. I will shape the influences that shape me, so that my values come naturally. When the moment comes, I will act on my beliefs and my gut with conviction, and look back only to understand and improve.
 
 **Always, word for word:**
-> I have faith that striving for truth and agency will lead me and my fellow humans to live lives worth living, and to add value to each other and the world beyond us. Today, I strive again.
+> I have faith that striving for truth and sovereignty will lead me and my fellow humans to live lives worth living, and to add value to each other and the world beyond us. Today, I strive again.
 
 ## Write and begin
 
